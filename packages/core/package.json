@@ -1,0 +1,22 @@
+{
+  "name": "kusomomo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash-es": "^4.17.21",
+    "sprintf-js": "^1.1.2",
+    "tarn": "^3.0.2"
+  },
+  "devDependencies": {
+    "@types/lodash-es": "^4.17.6",
+    "@types/sprintf-js": "^1.1.2",
+    "sqlite3": "^5.1.1"
+  }
+}
